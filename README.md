@@ -1,7 +1,7 @@
 # Phentos V12 Docs Botu
 Phentos tarafından hazırlanıp geliştirilmiş V12 docs botu! 
 
-Botun komutlaruna <prefix>help ile ulaşabilirsiniz.
+Botun komutlarına <prefix>help ile ulaşabilirsiniz.
 
 Ayarlarınızı girmeyi unutmayın!
 
